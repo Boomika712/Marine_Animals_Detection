@@ -8,9 +8,3 @@ The problem is that traditional detection methods struggle to identify cold-bloo
 This project aims to develop a deep learning-based system using the 'Super Gradients' model to enhance the detection and classification of these marine organisms in complex underwater environments.
 
 
-Architecture Diagram
-
-
-![image](https://github.com/user-attachments/assets/7b3d7020-8c26-4c58-991b-2583eab42734)
-
-
