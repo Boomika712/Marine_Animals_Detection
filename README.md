@@ -1,4 +1,4 @@
-An Adaptive Deep Learning Approach For Autonomous Detection and Classification of Marine Life in Underwater Environments.
+# An Adaptive Deep Learning Approach For Autonomous Detection and Classification of Marine Life in Underwater Environments.
 
 The objective aims to demonstrate a computer vision system utilizing the 'Super Gradients' pre-trained model the model's accuracy in identifying and classifying marine organisms, showcasing its effectiveness in feature extraction and classification even under challenging underwater conditions. 
 Ultimately, the goal is to enhance marine monitoring efficiency by integrating advanced deep learning techniques, addressing issues related to underwater visibility and species identification, and offering practical solutions for the analysis of ecological data.
